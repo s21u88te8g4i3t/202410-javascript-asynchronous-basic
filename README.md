@@ -9,7 +9,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous
 
 - 非同期JavaScriptのガイド
 
-### 非同期 JavaScript 入門
+### ★ 非同期 JavaScript 入門
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 
@@ -19,7 +19,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 - コールバックによる非同期プログラミングとコールバック地獄
 - 現代の非同期APIのほとんどはコールバックではなくプロミス (Promise)を使用する
 
-### プロミスの使い方
+### ★ プロミスの使い方
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Promises
 
