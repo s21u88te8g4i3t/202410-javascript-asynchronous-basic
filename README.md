@@ -31,3 +31,9 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Promises
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Implementing_a_promise-based_API
 
 - プロミスを返す API を実装する方法
+
+### ワーカー入門
+
+https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing_workers
+
+- タスクを別個のスレッドで実行できるようにする ワーカー の紹介
