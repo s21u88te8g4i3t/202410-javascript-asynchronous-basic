@@ -13,4 +13,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 
-- 同期プログラミング
+- 同期プログラミングについて
+- 長時間実行される同期関数の問題点
+- コールバックによる非同期プログラミングとコールバック地獄
+- 現代の非同期APIのほとんどはコールバックではなくプロミス (Promise)を使用する
