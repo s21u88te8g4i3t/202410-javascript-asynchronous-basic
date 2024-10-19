@@ -26,4 +26,8 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Promises
 - プロミスを返す API を使用する方法
 - async と await キーワード
 
-### 
+### プロミスベースの API の実装方法
+
+https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Implementing_a_promise-based_API
+
+- プロミスを返す API を実装する方法
