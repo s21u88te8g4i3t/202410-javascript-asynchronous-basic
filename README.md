@@ -13,6 +13,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 
+- ブラウザが提供する主要なAPIは非同期で実行されるものが多いため、自分自身で非同期関数を実装することがなくても正しく使用できる必要がある
 - 同期プログラミングについて
 - 長時間実行される同期関数の問題点
 - コールバックによる非同期プログラミングとコールバック地獄
