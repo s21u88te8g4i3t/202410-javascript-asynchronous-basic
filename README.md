@@ -22,3 +22,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 ### プロミスの使い方
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Promises
+
+- async と await キーワード
+
+### 
