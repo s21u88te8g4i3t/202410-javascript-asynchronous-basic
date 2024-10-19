@@ -3,5 +3,14 @@
 
 ## MDN リンク
 
-非同期 JavaScript ガイド  
+### ??
+
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous
+
+- 非同期JavaScriptのガイド
+
+### 非同期 JavaScript 入門
+
+https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
+
+- 同期プログラミング
