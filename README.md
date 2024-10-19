@@ -23,6 +23,7 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing
 
 https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Promises
 
+- プロミスを返す API を使用する方法
 - async と await キーワード
 
 ### 
