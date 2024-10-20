@@ -86,4 +86,4 @@ https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Sequencing_a
 
 - HTTP リクエスト : fetch API
 - DB アクセスやクラウドサービスの利用 : サードパーティ API
-- (特定の画面項目の表示など)完了するまで待つ : setTimeout or setInterval
+- (特定の画面項目の表示など)完了するまで待つ : setTimeout or setInterval or onload
