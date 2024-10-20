@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>検証用ページ:MDN引用</title>
+    <script
+      src="./js/01_mdn-long-running-synchronous-function.js"
+      defer
+    ></script>
+    <!-- <script src="./js/02_long-running-asynchronous-function.js" defer></script> -->
+    <style>
+      .block {
+        display: block;
+      }
+    </style>
+  </head>
+
+  <body>
+    <label for="quota">素数の個数:</label>
+    <input type="text" id="quota" name="quota" value="1000000" />
+
+    <div>
+      <button id="generate">素数の生成</button>
+      <button id="reload">再読み込み</button>
+    </div>
+
+    <textarea id="user-input" rows="5" cols="62" class="block">
+［素数の生成］を押した後、すぐにここに入力してみてください。</textarea
+    >
+
+    <div id="output"></div>
+
+    <p>
+      引用元:
+      <cite
+        >https://developer.mozilla.org/ja/docs/Learn/JavaScript/Asynchronous/Introducing</cite
+      >
+    </p>
+  </body>
+</html>
